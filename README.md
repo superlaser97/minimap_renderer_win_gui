@@ -1,16 +1,19 @@
-## Minimap Renderer with windows gui for easy
+## Minimap Renderer with windows gui for easy usage
 ### Forked from https://github.com/WoWs-Builder-Team/minimap_renderer
 
+## Work in Progress   |   Features to be implemented
 ```
-
-## Work in Progress
-## Features to be implemented
 GUI for selecting and rendering multiple replays
 Select output folder
 Output file naming scheme
-
-
 ```
+
+
+
+
+
+
+
 
   
 
